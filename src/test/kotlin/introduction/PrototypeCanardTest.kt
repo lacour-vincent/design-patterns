@@ -6,7 +6,7 @@ import org.junit.jupiter.api.Test
 
 class PrototypeCanardTest {
 
-    val proto: Canard = PrototypeCanard()
+    private val proto: Canard = PrototypeCanard()
 
     @Test
     fun `Description d'un colvert`() {

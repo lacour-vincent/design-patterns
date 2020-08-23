@@ -6,7 +6,7 @@ import org.junit.jupiter.api.Test
 
 class ColvertTest {
 
-    val colvert: Canard = Colvert()
+    private val colvert: Canard = Colvert()
 
     @Test
     fun `Description d'un colvert`() {
