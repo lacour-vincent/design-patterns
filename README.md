@@ -30,3 +30,5 @@ Définit une interface pour la création d'un objet, mais en laissant aux sous-c
 __Singleton__ <br/>
 Garantit qu'une classe n'a qu'une seule instance et fournit un point d'accès de type global à cette instance.
 
+__Commande__ <br />
+Encapsule une requête comme un objet, autorisant ainsi le paramétrage des clients par différentes requêtes, files d'attente et récapitulatifs de requêtes, et de plus, permettant la réversibilité des opérations.
