@@ -35,3 +35,6 @@ Encapsule une requête comme un objet, autorisant ainsi le paramétrage des clie
 
 __Adaptateur__ <br />
 Convertit l'interface d'une classe en une autre conforme à celle du client. L'adaptateur permet à des classes de collaborer, alors qu'elles n'auraient pas pu le faire du fait d'interfaces incompatibles.
+
+__Façade__ <br />
+Fournit une interface unifiée à l'ensemble des interfaces d'un sous-système. La façade fournit une interface de plus haut niveau qui rend le sous-système plus facile à utiliser.
