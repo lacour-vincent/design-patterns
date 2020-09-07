@@ -32,3 +32,6 @@ Garantit qu'une classe n'a qu'une seule instance et fournit un point d'accès de
 
 __Commande__ <br />
 Encapsule une requête comme un objet, autorisant ainsi le paramétrage des clients par différentes requêtes, files d'attente et récapitulatifs de requêtes, et de plus, permettant la réversibilité des opérations.
+
+__Adaptateur__ <br />
+Convertit l'interface d'une classe en une autre conforme à celle du client. L'adaptateur permet à des classes de collaborer, alors qu'elles n'auraient pas pu le faire du fait d'interfaces incompatibles.
