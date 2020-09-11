@@ -14,6 +14,10 @@
 - Les classes doivent être ouvertes à l'extension mais fermées à la modification.
 
 - Dépendez des abstractions. Ne dépendez pas des classes concrêtes.
+
+- Restreindre les intéractions entre objets à quelques classes proches.
+
+- Les super-classes décident quand appeler les sous-classes.
 ```
 
 ## Patterns OO
@@ -38,3 +42,6 @@ Convertit l'interface d'une classe en une autre conforme à celle du client. L'a
 
 __Façade__ <br />
 Fournit une interface unifiée à l'ensemble des interfaces d'un sous-système. La façade fournit une interface de plus haut niveau qui rend le sous-système plus facile à utiliser.
+
+__Patron de méthode__ <br />
+Définit le squelette d'un algorithme dans une méthode, en déléguant certaines étapes aux sous-classes. Il permet aux sous-classes de redéfinir certaines étapes d'un algorithme sans modifier la structure de celui-ci.
