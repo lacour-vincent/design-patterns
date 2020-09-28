@@ -18,6 +18,8 @@
 - Restreindre les intéractions entre objets à quelques classes proches.
 
 - Les super-classes décident quand appeler les sous-classes.
+
+- Une classe ne doit avoir qu’une seule raison de changer.
 ```
 
 ## Patterns OO
@@ -45,3 +47,9 @@ Fournit une interface unifiée à l'ensemble des interfaces d'un sous-système. 
 
 __Patron de méthode__ <br />
 Définit le squelette d'un algorithme dans une méthode, en déléguant certaines étapes aux sous-classes. Il permet aux sous-classes de redéfinir certaines étapes d'un algorithme sans modifier la structure de celui-ci.
+
+__Itérateur__ <br />
+Fournit un moyen d'accéder en séquence à un objet de type agrégat sans révélé sa représentation sous-jacente.
+
+__Composite__ <br />
+Compose des objets en des structures arborescentes pour représenter des hiérarchies composant/composé. Il permet aux clients de traiter de la même façon les objets individuels et les combinaisons de ceux-ci.
