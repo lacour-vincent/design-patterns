@@ -68,3 +68,6 @@ Fournit un moyen d'accéder en séquence à un objet de type agrégat sans rév�
 
 __Composite__ <br />
 Compose des objets en des structures arborescentes pour représenter des hiérarchies composant/composé. Il permet aux clients de traiter de la même façon les objets individuels et les combinaisons de ceux-ci.
+
+__Etat__ <br />
+Permet à un objet de modifier son comportement quand son état interne change. Tout se passera comme si l'objet changeait de classe.
