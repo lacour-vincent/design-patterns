@@ -1,6 +1,6 @@
-package introduction
+package strategie
 
-import introduction.canard.Canard
+import strategie.canard.Canard
 import org.junit.jupiter.api.Assertions.assertEquals
 import org.junit.jupiter.api.Test
 

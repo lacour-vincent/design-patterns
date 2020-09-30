@@ -1,4 +1,4 @@
-package introduction.canard.comportements_cancan
+package strategie.canard.comportements_cancan
 
 class Coincoin : ComportementCancan {
     override fun cancaner() = "Coincoin"

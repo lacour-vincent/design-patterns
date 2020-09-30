@@ -1,6 +1,6 @@
-package introduction
+package strategie
 
-import introduction.canard.Canard
+import strategie.canard.Canard
 
 fun main() {
     val colvert: Canard = Colvert()

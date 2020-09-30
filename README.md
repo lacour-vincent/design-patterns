@@ -1,5 +1,17 @@
 # Design-patterns
 
+## Base de l'OO
+
+```
+- Abstraction
+
+- Encapsulation
+
+- Polymorphisme
+
+- Héritage
+```
+
 ## Principes OO
 
 ```
@@ -23,6 +35,9 @@
 ```
 
 ## Patterns OO
+
+__Stratégie__
+Définit une famille d'algorithmes, encapsule chacun d'eux et les rend interchangeables. Stratégie permet à l'algorithme de varier indépendamment des clients qui l'utilisent.
 
 __Observateur__ <br/>
 Définit une relation entre objets de type un-à-plusieurs, de façon que, lorsque un objet change d'état, tous ceux qui en dépendent en soient notifiés et soient mis à jour automatiquement.

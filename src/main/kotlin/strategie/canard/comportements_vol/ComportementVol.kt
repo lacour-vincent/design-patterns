@@ -1,4 +1,4 @@
-package introduction.canard.comportements_vol
+package strategie.canard.comportements_vol
 
 interface ComportementVol {
     fun voler(): String
