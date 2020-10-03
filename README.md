@@ -71,3 +71,6 @@ Compose des objets en des structures arborescentes pour représenter des hiérar
 
 __Etat__ <br />
 Permet à un objet de modifier son comportement quand son état interne change. Tout se passera comme si l'objet changeait de classe.
+
+__Proxy__ <br />
+Fournit un remplaçant à un autre objet, pour en contrôler l'accès.
