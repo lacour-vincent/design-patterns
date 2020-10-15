@@ -36,7 +36,7 @@
 
 ## Patterns OO
 
-__Stratégie__
+__Stratégie__ <br/>
 Définit une famille d'algorithmes, encapsule chacun d'eux et les rend interchangeables. Stratégie permet à l'algorithme de varier indépendamment des clients qui l'utilisent.
 
 __Observateur__ <br/>
@@ -74,3 +74,26 @@ Permet à un objet de modifier son comportement quand son état interne change. 
 
 __Proxy__ <br />
 Fournit un remplaçant à un autre objet, pour en contrôler l'accès.
+
+## Principes SOLID
+
+__Single Responsibility Principle__ <br/>  
+<img src="doc/s.jpeg" alt="Single Responsibility Principle" width="300" >
+<br/>
+
+__Open/Close Principle__ <br />
+<img src="doc/o.jpeg" alt="Open/Close Principle" width="300" >
+<br/>
+
+__Liskov Substitution Principle__ <br />
+<img src="doc/l.jpeg" alt="Liskov Substitution Principle" width="300" >
+<br/>
+
+__Interface Segregation Principle__ <br />
+<img src="doc/i.jpeg" alt="Interface Segregation Principle" width="300" >
+<br/>
+
+__Dependency Inversion Principle__ <br />
+<img src="doc/d.jpeg" alt="Dependency Inversion Principle" width="300" >
+<br/>
+
