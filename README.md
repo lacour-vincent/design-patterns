@@ -36,6 +36,8 @@
 
 ## Patterns OO
 
+Un pattern est une solution à un problème dans un contexte.
+
 __Stratégie__ <br/>
 Définit une famille d'algorithmes, encapsule chacun d'eux et les rend interchangeables. Stratégie permet à l'algorithme de varier indépendamment des clients qui l'utilisent.
 
